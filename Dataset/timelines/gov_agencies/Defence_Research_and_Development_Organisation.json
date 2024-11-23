@@ -1,0 +1,57 @@
+{
+	"2015-01-01T12:31:55Z": {
+		"employees": "30,000 (7,200 scientists approximately and 12000 technical officer and assistants)",
+		"budget": "INRConvert",
+		"minister1_name": "Manohar Parrikar",
+		"minister1_pfo": "Defence Minister of India",
+		"chief1_name": "Avinash Chander",
+		"chief1_position": "Secretary, Department of Defence R&D"
+	},
+	"2016-08-20T11:28:39Z": {
+		"employees": "30,000 (5000 scientists)",
+		"budget": "INRConvert",
+		"minister1_name": "Manohar Parrikar",
+		"minister1_pfo": "Defence Minister of India",
+		"chief1_name": "S. Christopher",
+		"chief1_position": "Secretary, Department of Defence R&D"
+	},
+	"2017-05-09T21:16:19Z": {
+		"employees": "30,000 (7000 scientists)",
+		"budget": "INRConvert",
+		"minister1_name": "Arun Jaitley",
+		"minister1_pfo": "Defence Minister of India",
+		"chief1_name": "S. Christopher",
+		"chief1_position": "Secretary, Department of Defence R&D"
+	},
+	"2017-09-03T12:15:18Z": {
+		"name": "Defence Research and Development Organisation",
+		"employees": "30,000 (5000 scientists)",
+		"budget": "INRConvert",
+		"minister1_name": "Nirmala Sitharaman",
+		"minister1_pfo": "Defence Minister of India",
+		"chief1_name": "S. Christopher",
+		"chief1_position": "Secretary, Department of Defence R&D"
+	},
+	"2018-04-16T08:56:58Z": {
+		"name": "Defence Research and Development Organisation",
+		"employees": "25000 (5000 scientists)",
+		"budget": "INRConvert",
+		"minister1_name": "Nirmala Sitharaman",
+		"minister1_pfo": "Defence Minister of India",
+		"chief1_name": "S. Christopher",
+		"chief1_position": "Secretary, Department of Defence R&D",
+		"chief2_name": "G. Satheesh Reddy",
+		"chief2_position": "Scientific Adviser to Raksha Mantri"
+	},
+	"2018-08-25T14:39:48Z": {
+		"name": "Defence Research and Development Organisation",
+		"employees": "30,000 (5000 scientists)",
+		"budget": "INRConvert",
+		"minister1_name": "Nirmala Sitharaman",
+		"minister1_pfo": "Defence Minister of India",
+		"chief1_name": "G. Satheesh Reddy",
+		"chief1_position": "Secretary, Department of Defence R&D",
+		"chief2_name": "G. Satheesh Reddy",
+		"chief2_position": "Scientific Adviser to Raksha Mantri"
+	}
+}

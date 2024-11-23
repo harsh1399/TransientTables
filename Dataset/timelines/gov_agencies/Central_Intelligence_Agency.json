@@ -1,0 +1,97 @@
+{
+	"2008-10-03T20:03:59Z": {
+		"agency_name": "Central Intelligence Agency",
+		"minister1_name": "John Michael McConnell",
+		"minister1_pfo": "Director of National Intelligence",
+		"chief1_name": "General Michael Hayden USAF",
+		"chief1_position": "Director of the Central Intelligence Agency",
+		"chief2_name": "Stephen Kappes",
+		"chief2_position": "Deputy Director of the Central Intelligence Agency",
+		"chief3_name": "Scott White",
+		"chief3_position": "Associate Deputy Director",
+		"chief4_name": "John A. Rizzo",
+	    "chief4_position": "General Counsel"
+	},
+	"2010-05-07T20:01:45Z": {
+		"agency_name": "Central Intelligence Agency",
+		"minister1_name": "Dennis Blair",
+		"minister1_pfo": "Director of National Intelligence",
+		"chief1_name": "Leon Panetta",
+		"chief1_position": "Director of the Central Intelligence Agency",
+		"chief2_name": "Michael J. Morell",
+		"chief2_position": "Deputy Director of the Central Intelligence Agency",
+		"chief3_name": "Stephanie O'Sullivan",
+		"chief3_position": "Associate Deputy Director",
+		"chief4_name": "Stephen W. Preston",
+	    "chief4_position": "General Counsel"
+	},
+	"2012-11-09T22:14:20Z": {
+		"agency_name": "Central Intelligence Agency",
+		"minister1_name": "James Clapper",
+		"minister1_pfo": "Director of National Intelligence",
+		"chief1_name": "Michael Morell",
+		"chief1_position": "Director of the Central Intelligence Agency",
+		"chief2_name": "V. Sue Bromley",
+		"chief2_position": "Associate Deputy Director",
+		"chief3_name": "Michael Morell",
+		"chief3_position": "Deputy Director of the Central Intelligence Agency",
+		"chief4_name": "Stephen W. Preston",
+	    "chief4_position": "General Counsel"
+	},
+	"2013-05-16T18:21:34Z": {
+		"agency_name": "Central Intelligence Agency",
+		"minister1_name": "James Clapper",
+		"minister1_pfo": "Director of National Intelligence",
+		"chief1_name": "John O. Brennan",
+		"chief1_position": "Director of the Central Intelligence Agency",
+		"chief2_name": "Michael Morell",
+		"chief2_position": "Deputy Director of the Central Intelligence Agency",
+		"chief3_name": "Stephen W. Preston",
+	    "chief3_position": "General Counsel"
+
+	},
+	"2014-01-19T10:55:58Z":{
+		"agency_name": "Central Intelligence Agency",
+		"minister1_name": "James Clapper",
+		"minister1_pfo": "Director of National Intelligence",
+	    "chief1_name": "John O. Brennan",
+	    "chief1_position": "Director of the Central Intelligence Agency",
+	    "chief2_name": "Avril Haines",
+	    "chief2_position": "Deputy Director of the Central Intelligence Agency",
+	    "chief3_name": "Robert Joseph Eatinger, Jr.",
+	    "chief3_position": "General Counsel"
+	},
+	"2018-01-04T03:11:14Z": {
+		"agency_name": "Central Intelligence Agency",
+		"minister1_name": "Dan Coats",
+		"minister1_pfo": "Director of National Intelligence",
+		"chief1_name": "Mike Pompeo",
+		"chief1_position": "Director of the Central Intelligence Agency",
+		"chief2_name": "Gina Haspel",
+		"chief2_position": "Deputy Director of the Central Intelligence Agency",
+		"chief3_name": "Courtney Simmons Elwood",
+	    "chief3_position": "General Counsel"
+	},
+	"2018-05-02T22:27:06Z": {
+		"agency_name": "Central Intelligence Agency",
+		"minister1_name": "Dan Coats",
+		"minister1_pfo": "Director of National Intelligence",
+	    "chief1_name": "Gina Haspel",
+	    "chief1_position": "Director of the Central Intelligence Agency",
+	    "chief2_name": "Vaughn Bishop",
+	    "chief2_position": "Deputy Director of the Central Intelligence Agency",
+	    "chief3_name": "Courtney Simmons Elwood",
+	    "chief3_position": "General Counsel"
+	},
+	"2021-08-06T11:50:26Z":{
+		"agency_name": "Central Intelligence Agency",
+	    "minister1_name": "Avril Haines",
+		"minister1_pfo": "Director of National Intelligence",
+	    "chief1_name": "William Joseph Burns",
+	    "chief1_position": "Director of the Central Intelligence Agency",
+	    "chief2_name": "David S. Cohen",
+	    "chief2_position": "Deputy Director of the Central Intelligence Agency",
+	    "chief3_name": "Courtney Simmons Elwood",
+	    "chief3_position": "General Counsel"
+	}
+}
