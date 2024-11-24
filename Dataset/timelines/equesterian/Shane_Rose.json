@@ -1,0 +1,43 @@
+{
+    "2010-06-15T11:37:46Z": {
+        "name": "Shane Rose",
+        "nationality": "Australian",
+        "birthdate": "df=yes",
+        "country": "Australia",
+        "sport": "Equestrian",
+        "event": "Eventing",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Silver Medal: 2008 Beijing Team eventing"
+        ]
+    },
+    "2016-06-29T05:00:59Z": {
+        "name": "Shane Rose",
+        "nationality": "Australian",
+        "country": "Australia",
+        "sport": "Equestrian",
+        "event": "Eventing",
+        "birth_date": "1973-4-24",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{AUS}}",
+            "Competition: Olympic Games",
+            "Silver Medal: 2008 Beijing Team eventing"
+        ]
+    },
+    "2016-08-09T22:23:13Z": {
+        "name": "Shane Rose",
+        "nationality": "Australian",
+        "country": "Australia",
+        "sport": "Equestrian",
+        "event": "Eventing",
+        "birth_date": "1973-4-24",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{AUS}}",
+            "Competition: Olympic Games",
+            "Silver Medal: 2008 Beijing Team eventing",
+            "Bronze Medal: 2016 Rio de Janeiro Team eventing"
+        ]
+    }
+}

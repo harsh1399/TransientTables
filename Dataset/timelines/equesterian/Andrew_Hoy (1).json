@@ -1,0 +1,36 @@
+{
+    "2012-01-08T11:01:38Z": {
+        "name": "Andrew Hoy",
+        "fullname": "Andrew James Hoy",
+        "nationality": "AUS",
+        "discipline": "Eventing",
+        "birth_place": "Culcairn, New South Wales",
+        "birth_date": "1959-2-8",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Gold Medal: 1992 Barcelona Three-day event team",
+            "Gold Medal: 1996 Atlanta Three-day event team",
+            "Gold Medal: 2000 Sydney Three-day event team",
+            "Silver Medal: 2000 Sydney Three-day event individual"
+        ]
+    },
+    "2020-04-21T09:12:09Z": {
+        "name": "Andrew Hoy",
+        "fullname": "Andrew James Hoy",
+        "nationality": "AUS",
+        "discipline": "Eventing",
+        "birth_place": "Culcairn, New South Wales",
+        "birth_date": "1959-2-8",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{AUS}}",
+            "Gold Medal: 1992 Barcelona Team eventing",
+            "Gold Medal: 1996 Atlanta Team eventing",
+            "Gold Medal: 2000 Sydney Team eventing",
+            "Silver Medal: 2000 Sydney Individual eventing",
+            "Competition: World Championships",
+            "Bronze Medal: 1986 Gawler Team eventing",
+            "Bronze Medal: 2006 Aachen Team eventing"
+        ]
+    }
+}

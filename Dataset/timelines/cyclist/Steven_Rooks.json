@@ -1,0 +1,47 @@
+{
+    "2010-01-03T22:40:14Z": {
+        "ridername": "Steven Rooks",
+        "fullname": "Steven Rooks",
+        "dateofbirth": "1960",
+        "country": "NED",
+        "currentteam": "Retired",
+        "discipline": "Road",
+        "role": "Rider",
+        "ridertype": "Climber",
+        "majorwins": "Mountains classification 1988 Tour de France, 2 stages Tour de France, Li\u00e8ge-Bastogne-Li\u00e8ge (1983), Amstel Gold Race (1986)"
+    },
+    "2010-03-01T16:44:19Z": {
+        "ridername": "Steven Rooks",
+        "fullname": "Steven Rooks",
+        "dateofbirth": "1960",
+        "country": "Netherlands",
+        "currentteam": "Retired",
+        "discipline": "Road",
+        "role": "Rider",
+        "ridertype": "Climber",
+        "majorwins": "Mountains classification 1988 Tour de France, 2 stages Tour de France, Li\u00e8ge-Bastogne-Li\u00e8ge (1983), Amstel Gold Race (1986)",
+        "medaltemplates": [
+            "Country: the {{NED}}",
+            "Sport: Road bicycle racing",
+            "Competition: World Championships",
+            "Silver Medal: 1991 Stuttgart Elite Men's Road Race Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}"
+        ]
+    },
+    "2010-08-03T07:13:16Z": {
+        "ridername": "Steven Rooks",
+        "fullname": "Steven Rooks",
+        "dateofbirth": "1960",
+        "country": "Netherlands",
+        "currentteam": "Retired",
+        "discipline": "Road",
+        "role": "Rider",
+        "ridertype": "Climber",
+        "majorwins": "Mountains classification 1988 Tour de France, 2 stages Tour de France, Li\u00e8ge\u2013Bastogne\u2013Li\u00e8ge (1983), Amstel Gold Race (1986)",
+        "medaltemplates": [
+            "Country: the {{NED}}",
+            "Sport: Road bicycle racing",
+            "Competition: World Championships",
+            "Silver Medal: 1991 Stuttgart Elite Men's Road Race Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "2007-12-18T13:54:18Z": {
+        "ridername": "Roland Green",
+        "fullname": "Roland Green",
+        "dateofbirth": "1974",
+        "country": "CAN",
+        "discipline": "MTB XC & Road",
+        "role": "Rider",
+        "proyears": "1999-2000 2001-2004 2005",
+        "proteams": "Team GT   Trek-Volkswagen         Kona Les Gets Factory Team",
+        "majorwins": "flagiconUCI MTB XC World Champion (2001 & 2002)"
+    },
+    "2018-01-08T04:55:22Z": {
+        "name": "Roland Green",
+        "fullname": "Roland Green",
+        "birth_place": "Victoria, BC, Canada",
+        "discipline": "MTB XC & Road",
+        "role": "Rider",
+        "proyears1": "1999-2000",
+        "proteam1": "Team GT",
+        "proyears2": "2001-2004",
+        "proteam2": "Trek-Volkswagen",
+        "proyears3": "2005",
+        "proteam3": "Kona Les Gets Factory Team",
+        "majorwins": "MTB XC World Champion (2001 & 2002)",
+        "birth_date": "1974-7-29",
+        "medaltemplates": [
+            "Country: {{CAN}}",
+            "Sport: Men's mountain bike racing",
+            "Competition: World Championships",
+            "Gold Medal: 2001 Vail Cross Country Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Gold Medal: 2002 Kaprun Cross Country Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Silver Medal: 2000 Sierra Nevada Cross Country Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Competition: Commonwealth Games",
+            "Gold Medal: 2002 Manchester Cross-country Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}"
+        ]
+    },
+    "2018-10-14T23:20:26Z": {
+        "name": "Roland Green",
+        "fullname": "Roland Green",
+        "birth_place": "Victoria, British Columbia, Canada",
+        "discipline": "MTB XC & Road",
+        "role": "Rider",
+        "proyears1": "1999-2000",
+        "proteam1": "Team GT",
+        "proyears2": "2001-2004",
+        "proteam2": "Trek-Volkswagen",
+        "proyears3": "2005",
+        "proteam3": "Kona Les Gets Factory Team",
+        "majorwins": "MTB XC World Champion (2001 & 2002)",
+        "birth_date": "1974-7-29",
+        "medaltemplates": [
+            "Country: {{CAN}}",
+            "Sport: Men's mountain bike racing",
+            "Competition: World Championships",
+            "Gold Medal: 2001 Vail Cross Country Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Gold Medal: 2002 Kaprun Cross Country Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Silver Medal: 2000 Sierra Nevada Cross Country Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Competition: Commonwealth Games",
+            "Gold Medal: 2002 Manchester Cross-country Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}"
+        ]
+    }
+}

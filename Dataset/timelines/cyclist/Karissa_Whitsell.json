@@ -1,0 +1,80 @@
+{
+    "2008-09-07T16:30:10Z": {
+        "ridername": "Karissa Whitsell",
+        "fullname": "Karissa Whitsell",
+        "country": "USA",
+        "discipline": "Track",
+        "role": "Rider"
+    },
+    "2008-09-09T17:58:51Z": {
+        "ridername": "Karissa Whitsell",
+        "fullname": "Karissa Whitsell",
+        "country": "USA",
+        "discipline": "Track",
+        "role": "Rider",
+        "medaltemplates": [
+            "Sport: Women's Cycling",
+            "Country: {{USA}}",
+            "Competition: Paralympic Games",
+            "Gold Medal: 2004 Athens road race/time trial Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Gold Medal: 2004 Athens 3 km individual pursuit Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Silver Medal: 2004 Athens 1 km time trial Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Bronze Medal: 2004 Athens sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Bronze Medal: 2008 Beijing individual pursuit B&VI 1-3 Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}"
+        ]
+    },
+    "2008-09-09T18:00:55Z": {
+        "ridername": "Karissa Whitsell",
+        "fullname": "Karissa Whitsell",
+        "dateofbirth": "1981",
+        "country": "USA",
+        "discipline": "Track",
+        "role": "Rider",
+        "medaltemplates": [
+            "Sport: Women's Cycling",
+            "Country: {{USA}}",
+            "Competition: Paralympic Games",
+            "Gold Medal: 2004 Athens road race/time trial Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Gold Medal: 2004 Athens 3 km individual pursuit Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Silver Medal: 2004 Athens 1 km time trial Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Bronze Medal: 2004 Athens sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Bronze Medal: 2008 Beijing individual pursuit B&VI 1-3 Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}"
+        ]
+    },
+    "2011-05-23T14:40:11Z": {
+        "name": "Karissa Whitsell",
+        "fullname": "Karissa Whitsell",
+        "country": "USA",
+        "discipline": "Track",
+        "role": "Rider",
+        "birth_date": "1981-06-15",
+        "medaltemplates": [
+            "Sport: Women's Cycling",
+            "Country: {{USA}}",
+            "Competition: Paralympic Games",
+            "Gold Medal: 2004 Athens road race/time trial Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Gold Medal: 2004 Athens 3 km individual pursuit Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Silver Medal: 2004 Athens 1 km time trial Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Bronze Medal: 2004 Athens sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Bronze Medal: 2008 Beijing individual pursuit B&VI 1-3 Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}"
+        ]
+    },
+    "2011-05-25T13:22:01Z": {
+        "name": "Karissa Whitsell",
+        "fullname": "Karissa Whitsell",
+        "birth_place": "USA",
+        "discipline": "Track",
+        "role": "Rider",
+        "birth_date": "1981-06-15",
+        "medaltemplates": [
+            "Sport: Women's Cycling",
+            "Country: {{USA}}",
+            "Competition: Paralympic Games",
+            "Gold Medal: 2004 Athens road race/time trial Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Gold Medal: 2004 Athens 3 km individual pursuit Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Silver Medal: 2004 Athens 1 km time trial Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Bronze Medal: 2004 Athens sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Bronze Medal: 2008 Beijing individual pursuit B&VI 1-3 Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}"
+        ]
+    }
+}

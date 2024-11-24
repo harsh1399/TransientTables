@@ -1,0 +1,78 @@
+{
+    "2019-08-28T11:14:34Z": {
+        "name": "Tina Irwin",
+        "national_team": "Canada",
+        "birth_place": "Hagen, Germany",
+        "residence": "Whitchurch-Stouffville, Ontario",
+        "hometown": "Breslau, Ontario",
+        "website": "https://teamirwindressage.com",
+        "sport": "Equestrian",
+        "event": "Dressage",
+        "module2": "Infobox equestrian",
+        "horse": [
+            "Amicelli (2007\u20142010)",
+            "Winston (2011\u20142012)",
+            "Fancy That (2014\u20142016, 2019\u2014current)",
+            "Laurencio (2016\u2014current)"
+        ],
+        "embed": "yes ",
+        "birth_date": "1981-01-29",
+        "medaltemplates": [
+            "Country: {{CAN}}",
+            "Sport: Individual Dressage",
+            "Silver Medal: 2019 Lima ",
+            "Sport: Team Dressage",
+            "Silver Medal: 2011 Guadalajara ",
+            "Gold Medal: 2019 Lima "
+        ]
+    },
+    "2019-09-02T03:56:49Z": {
+        "name": "Tina Irwin",
+        "national_team": "Canada",
+        "birth_place": "Hagen, Germany",
+        "residence": "Whitchurch-Stouffville, Ontario",
+        "hometown": "Breslau, Ontario",
+        "website": "https://teamirwindressage.com",
+        "sport": "Equestrian",
+        "event": "Dressage",
+        "module2": "Infobox equestrian",
+        "horse": [
+            "Amicelli (2007\u20142010)",
+            "Winston (2011\u20142012)",
+            "Fancy That (2014\u20142016, 2019\u2014current)",
+            "Laurencio (2016\u2014current)"
+        ],
+        "embed": "yes ",
+        "birth_date": "1981-01-29",
+        "medaltemplates": [
+            "Country: {{CAN}}",
+            "Gold Medal: 2019 Lima Team dressage",
+            "Silver Medal: 2011 Guadalajara Individual dressage",
+            "Silver Medal: 2019 Lima Individual dressage"
+        ]
+    },
+    "2019-09-13T10:36:34Z": {
+        "name": "Tina Irwin",
+        "birth_place": "Hagen, Germany",
+        "residence": "Whitchurch-Stouffville, Ontario, Canada",
+        "hometown": "Breslau, Ontario, Canada",
+        "website": "https://teamirwindressage.com",
+        "sport": "Equestrian",
+        "event": "Dressage",
+        "module2": "Infobox equestrian",
+        "horse": [
+            "Amicelli (2007\u20142010)",
+            "Winston (2011\u20142012)",
+            "Fancy That (2014\u20142016, 2019\u2014current)",
+            "Laurencio (2016\u2014current)"
+        ],
+        "embed": "yes ",
+        "birth_date": "1981-01-29",
+        "medaltemplates": [
+            "Country: {{CAN}}",
+            "Gold Medal: 2019 Lima Team dressage",
+            "Silver Medal: 2011 Guadalajara Individual dressage",
+            "Silver Medal: 2019 Lima Individual dressage"
+        ]
+    }
+}

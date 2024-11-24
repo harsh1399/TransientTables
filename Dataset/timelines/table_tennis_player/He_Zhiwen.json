@@ -1,0 +1,42 @@
+{
+    "2013-02-27T11:57:19Z": {
+        "name": "He Zhiwen",
+        "fullname": "Zhiwen He",
+        "nicknames": "Juanito",
+        "nationality": "CHN ESP",
+        "birth_place": "Zhejiang, China",
+        "height": "m=1.73",
+        "weight": "75",
+        "birth_date": "1962-05-31"
+    },
+    "2013-10-13T19:42:55Z": {
+        "name": "He Zhiwen",
+        "fullname": "Zhiwen He",
+        "nicknames": "Juanito",
+        "nationality": "CHN ESP",
+        "birth_place": "Zhejiang, China",
+        "height": "m=1.73",
+        "weight": "75",
+        "birth_date": "1962-05-31",
+        "medaltemplates": [
+            "Competition: European Championships",
+            "Bronze Medal: 2013 Schwechat Doubles Played with David Melder"
+        ]
+    },
+    "2014-03-23T12:41:06Z": {
+        "name": "He Zhiwen",
+        "fullname": "Zhiwen He",
+        "nicknames": "Juanito",
+        "nationality": "CHN ESP",
+        "birth_place": "Zhejiang, China",
+        "height": "m=1.73",
+        "weight": "75",
+        "birth_date": "1962-05-31",
+        "medaltemplates": [
+            "Competition: European Championships",
+            "Bronze Medal: 2013 Schwechat Doubles Played with David Melder",
+            "Competition: Mediterranean Games",
+            "Bronze Medal: 2013 Mersin Team Played with David Melder"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "2011-04-27T12:06:14Z": {
+        "name": "Andreas Dibowski",
+        "fullname": "Andreas Dibowski",
+        "nationality": "GER",
+        "discipline": "Eventing",
+        "birth_place": "London",
+        "birth_date": "1966-3-29",
+        "medaltemplates": [
+            "Country: {{GER}}",
+            "Sport: Equestrian",
+            "Gold Medal: 2008 Beijing Team eventing"
+        ]
+    },
+    "2013-09-02T21:33:35Z": {
+        "name": "Andreas Dibowski",
+        "fullname": "Andreas Dibowski",
+        "nationality": "GER",
+        "discipline": "Eventing",
+        "birth_place": "Hamburg",
+        "birth_date": "1966-3-29",
+        "medaltemplates": [
+            "Country: {{GER}}",
+            "Sport: Equestrian",
+            "Gold Medal: 2008 Beijing Team eventing",
+            "Gold Medal: 2013 Malmo Team eventing"
+        ]
+    },
+    "2013-09-02T21:39:34Z": {
+        "name": "Andreas Dibowski",
+        "fullname": "Andreas Dibowski",
+        "nationality": "GER",
+        "discipline": "Eventing",
+        "birth_place": "Hamburg",
+        "birth_date": "1966-3-29",
+        "medaltemplates": [
+            "Country: {{GER}}",
+            "Sport: Equestrian",
+            "Gold Medal: 2008 Beijing Team eventing",
+            "Gold Medal: 2011 Luhm\u00fchlen Team eventing",
+            "Gold Medal: 2013 Malmo Team eventing"
+        ]
+    },
+    "2019-09-01T13:19:15Z": {
+        "name": "Andreas Dibowski",
+        "fullname": "Andreas Dibowski",
+        "nationality": "GER",
+        "discipline": "Eventing",
+        "birth_place": "Hamburg, Germany",
+        "birth_date": "1966-3-29",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{GER}}",
+            "Competition: Olympic Games",
+            "Gold Medal: 2008 Beijing Team eventing",
+            "Gold Medal: 2011 Luhm\u00fchlen Team eventing",
+            "Gold Medal: 2013 Malmo Team eventing",
+            "Gold Medal: 2019 Luhm\u00fchlen Team eventing"
+        ]
+    },
+    "2021-09-26T13:14:48Z": {
+        "name": "Andreas Dibowski",
+        "nationality": "GER",
+        "discipline": "Eventing",
+        "birth_place": "Hamburg, Germany",
+        "birth_date": "1966-3-29",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{GER}}",
+            "Competition: Olympic Games",
+            "Gold Medal: 2008 Beijing Team eventing",
+            "Gold Medal: 2011 Luhm\u00fchlen Team eventing",
+            "Gold Medal: 2013 Malmo Team eventing",
+            "Gold Medal: 2019 Luhm\u00fchlen Team eventing",
+            "Silver Medal: 2021 Avenches Team eventing"
+        ]
+    }
+}

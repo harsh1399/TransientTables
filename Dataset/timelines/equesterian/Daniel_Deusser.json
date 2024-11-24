@@ -1,0 +1,60 @@
+{
+    "2016-08-17T16:50:13Z": {
+        "name": "Daniel Deusser",
+        "nationality": "German",
+        "sport": "Equestrianism",
+        "height": "1.90 m",
+        "weight": "76 kg",
+        "country": "Germany",
+        "birth_date": "1981-08-13"
+    },
+    "2016-08-17T17:41:09Z": {
+        "name": "Daniel Deusser",
+        "nationality": "German",
+        "sport": "Equestrianism",
+        "height": "1.90 m",
+        "weight": "76 kg",
+        "country": "Germany",
+        "birth_date": "1981-08-13",
+        "medaltemplates": [
+            "Competition: Olympic Games",
+            "Bronze Medal: 2016 Rio de Janeiro Team jumping"
+        ]
+    },
+    "2016-12-08T21:33:16Z": {
+        "name": "Daniel Deusser",
+        "nationality": "German",
+        "sport": "Equestrianism",
+        "height": "1.90 m",
+        "weight": "76 kg",
+        "country": "Germany",
+        "birth_date": "1981-08-13",
+        "medaltemplates": [
+            "Competition: Olympic Games",
+            "Bronze Medal: 2016 Rio de Janeiro Team jumping",
+            "Competition: European Championships",
+            "Silver Medal: 2013 Herning Team jumping",
+            "Silver Medal: 2015 Aachen Team jumping"
+        ]
+    },
+    "2018-05-22T13:32:45Z": {
+        "name": "Daniel Deusser",
+        "nationality": "German",
+        "sport": "Equestrianism",
+        "height": "1.90 m",
+        "weight": "76 kg",
+        "country": "Germany",
+        "birth_date": "1981-08-13",
+        "medaltemplates": [
+            "Competition: Olympic Games",
+            "Bronze Medal: 2016 Rio de Janeiro Team jumping",
+            "Competition: European Championships",
+            "Silver Medal: 2013 Herning Team jumping",
+            "Silver Medal: 2015 Aachen Team jumping",
+            "Competition: World Cup",
+            "Gold Medal: 2014 Lyon Individual jumping",
+            "Silver Medal: 2007 Las Vegas Individual jumping",
+            "Bronze Medal: 2016 Gothenburg Individual jumping"
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "2011-06-23T08:42:57Z": {
+        "playername": "Oksana Fadeyeva",
+        "fullname": "FADEEVA-KUSCH Oxana",
+        "nationality": "URS RUS",
+        "medaltemplates": [
+            "Sport: Women's table tennis",
+            "Country: {{RUS}}",
+            "Competition: European Championships",
+            "Gold Medal: 2010 Ostrava Doubles Played with David Melder",
+            "Bronze Medal: 2009 Stuttgart Doubles Played with David Melder",
+            "Bronze Medal: 2008 Saint-Petersburg Doubles Played with David Melder",
+            "Silver Medal: 2007 Belgrade Mixed Doubles Played with David Melder",
+            "Silver Medal: 2007 Belgrade Team Played with David Melder",
+            "Gold Medal: 1994 Birmingham Team Played with David Melder"
+        ]
+    },
+    "2016-03-21T12:21:38Z": {
+        "name": "Oksana Fadeyeva",
+        "fullname": "FADEEVA-KUSCH Oxana",
+        "nationality": "URS RUS",
+        "medaltemplates": [
+            "Sport: Women's table tennis",
+            "Country: {{RUS}}",
+            "Competition: European Championships",
+            "Gold Medal: 1994 Birmingham Team Played with David Melder",
+            "Gold Medal: 2010 Ostrava Doubles Played with David Melder",
+            "Silver Medal: 2007 Belgrade Mixed Doubles Played with David Melder",
+            "Silver Medal: 2007 Belgrade Team Played with David Melder",
+            "Bronze Medal: 2008 Saint-Petersburg Doubles Played with David Melder",
+            "Bronze Medal: 2009 Stuttgart Doubles Played with David Melder"
+        ]
+    },
+    "2011-06-23T08:41:45Z": {
+        "playername": "Oksana Fadeyeva",
+        "fullname": "FADEEVA-KUSCH Oxana",
+        "nationality": "RUS URS EUN",
+        "medaltemplates": [
+            "Sport: Women's table tennis",
+            "Country: {{RUS}}",
+            "Competition: European Championships",
+            "Gold Medal: 2010 Ostrava Doubles Played with David Melder",
+            "Bronze Medal: 2009 Stuttgart Doubles Played with David Melder",
+            "Bronze Medal: 2008 Saint-Petersburg Doubles Played with David Melder",
+            "Silver Medal: 2007 Belgrade Mixed Doubles Played with David Melder",
+            "Silver Medal: 2007 Belgrade Team Played with David Melder",
+            "Gold Medal: 1994 Birmingham Team Played with David Melder",
+            "Country: {{URS}}",
+            "Country: {{EUN}}"
+        ]
+    }
+}

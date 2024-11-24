@@ -1,0 +1,25 @@
+{
+    "2015-06-20T21:43:35Z": {
+        "name": "Yann Candele",
+        "nationality": "Canadian",
+        "discipline": "Show jumping",
+        "birth_place": "Normandy, France",
+        "height_ft": "5",
+        "height_in": "4.5",
+        "weight_lb": "110 ",
+        "birth_date": "1971-3-11"
+    },
+    "2015-07-25T13:58:20Z": {
+        "name": "Yann Candele",
+        "nationality": "Canadian",
+        "discipline": "Show jumping",
+        "birth_place": "Normandy, France",
+        "birth_date": "1971-3-11",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{CAN}}",
+            "Competition: Pan American Games",
+            "Gold Medal: 2015 Toronto Team jumping"
+        ]
+    }
+}

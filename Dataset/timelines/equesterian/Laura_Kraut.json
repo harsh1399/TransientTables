@@ -1,0 +1,28 @@
+{
+    "2018-03-30T19:48:22Z": {
+        "name": "Laura Kraut",
+        "birth_place": "Camden, South Carolina, U.S.",
+        "headercolor": "lightsteelblue",
+        "birth_date": "November 14, 1965",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: the {{USA}}",
+            "Competition: Olympic Games",
+            "Gold Medal: 2008 Beijing Team jumping"
+        ]
+    },
+    "2018-09-21T21:20:55Z": {
+        "name": "Laura Kraut",
+        "birth_place": "Camden, South Carolina, U.S.",
+        "headercolor": "lightsteelblue",
+        "birth_date": "November 14, 1965",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: the {{USA}}",
+            "Competition: Olympic Games",
+            "Gold Medal: 2008 Beijing Team jumping",
+            "Competition: World Championships",
+            "Gold Medal: 2018 Tryon Team jumping"
+        ]
+    }
+}

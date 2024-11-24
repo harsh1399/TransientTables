@@ -1,0 +1,41 @@
+{
+    "2014-09-07T16:14:27Z": {
+        "name": "Jeroen Dubbeldam",
+        "fullname": "Jeroen Dubbeldam",
+        "nationality": "NED",
+        "discipline": "Show jumping",
+        "birth_place": "Detmold, West Germany",
+        "height_ft": "6",
+        "height_in": "1",
+        "weight": "181",
+        "birth_date": "1973-4-15",
+        "medaltemplates": [
+            "Country: the {{NED}}",
+            "Competition: Olympic Games",
+            "Gold Medal: 2000 Sydney Individual jumping",
+            "Competition: World Championships",
+            "Gold Medal: 2014 Normandy Team jumping",
+            "Gold Medal: 2014 Normandy Individual jumping"
+        ]
+    },
+    "2014-09-07T21:08:35Z": {
+        "name": "Jeroen Dubbeldam",
+        "fullname": "Jeroen Dubbeldam",
+        "nationality": "NED",
+        "discipline": "Show jumping",
+        "birth_place": "Detmold, West Germany",
+        "height_ft": "6",
+        "height_in": "1",
+        "weight": "181",
+        "birth_date": "1973-4-15",
+        "medaltemplates": [
+            "Country: the {{NED}}",
+            "Competition: Olympic Games",
+            "Gold Medal: 2000 Sydney Individual jumping",
+            "Competition: World Championships",
+            "Gold Medal: 2006 Aachen Team jumping",
+            "Gold Medal: 2014 Normandy Team jumping",
+            "Gold Medal: 2014 Normandy Individual jumping"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "2019-08-07T21:58:44Z": {
+        "name": "Eduardo Menezes",
+        "fullname": "Eduardo Menezes",
+        "nationality": "BRA",
+        "discipline": "Jumping",
+        "birth_place": "Brazil",
+        "height": "1.93",
+        "weight": "84",
+        "birth_date": "1980-5-1",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{BRA}}",
+            "Competition: Pan American Games",
+            "Gold Medal: 2019 Lima Team jumping"
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "2016-08-09T21:49:24Z": {
+        "name": "Julia Krajewski",
+        "nationality": "German",
+        "sport": "Equestrianism",
+        "height": "1.68 m",
+        "weight": "65 kg",
+        "country": "Germany",
+        "birth_date": "1988-10-22"
+    },
+    "2016-08-09T22:30:14Z": {
+        "name": "Julia Krajewski",
+        "nationality": "German",
+        "sport": "Equestrianism",
+        "height": "1.68 m",
+        "weight": "65 kg",
+        "country": "Germany",
+        "birth_date": "1988-10-22",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{GER}}",
+            "Competition: Olympic Games",
+            "Silver Medal: 2016 Rio de Janeiro Team eventing"
+        ]
+    },
+    "2022-09-18T13:59:23Z": {
+        "name": "Julia Krajewski",
+        "nationality": "German",
+        "sport": "Equestrianism",
+        "birth_place": "Langenhagen, Lower Saxony, West Germany",
+        "height": "1.68 m",
+        "weight": "66 kg",
+        "country": "Germany",
+        "birth_date": "1988-10-22",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{GER}}",
+            "Competition: Olympic Games",
+            "Gold Medal: 2020 Tokyo Individual eventing",
+            "Silver Medal: 2016 Rio de Janeiro Team eventing",
+            "Competition: World Championships",
+            "Gold Medal: 2022 Pratoni Team eventing",
+            "Silver Medal: 2022 Pratoni Individual eventing"
+        ]
+    },
+    "2020-04-01T23:29:49Z": {
+        "name": "Julia Krajewski",
+        "nationality": "German",
+        "sport": "Equestrianism",
+        "height": "1.68 m",
+        "weight": "65 kg",
+        "country": "Germany",
+        "birth_date": "1988-10-22",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{GER}}",
+            "Competition: Olympic Games",
+            "Silver Medal: 2016 Rio de Janeiro Team eventing",
+            "Silver Medal: 2017 Strzegom Team eventing"
+        ]
+    },
+    "2022-06-03T07:49:02Z": {
+        "name": "Julia Krajewski",
+        "nationality": "German",
+        "sport": "Equestrianism",
+        "birth_place": "Langenhagen, Lower Saxony, West Germany",
+        "height": "1.68 m",
+        "weight": "65 kg",
+        "country": "Germany",
+        "birth_date": "1988-10-22",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{GER}}",
+            "Competition: Olympic Games",
+            "Gold Medal: 2020 Tokyo Individual eventing",
+            "Silver Medal: 2016 Rio de Janeiro Team eventing"
+        ]
+    },
+    "2022-06-27T18:53:04Z": {
+        "name": "Julia Krajewski",
+        "nationality": "German",
+        "sport": "Equestrianism",
+        "birth_place": "Langenhagen, Lower Saxony, West Germany",
+        "height": "1.68 m",
+        "weight": "66 kg",
+        "country": "Germany",
+        "birth_date": "1988-10-22",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{GER}}",
+            "Competition: Olympic Games",
+            "Gold Medal: 2020 Tokyo Individual eventing",
+            "Silver Medal: 2016 Rio de Janeiro Team eventing"
+        ]
+    }
+}
