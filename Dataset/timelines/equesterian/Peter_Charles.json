@@ -1,0 +1,41 @@
+{
+    "2012-02-11T05:08:04Z": {
+        "name": "Peter Charles",
+        "fullname": "Peter Charles",
+        "nationality": "IRL &, GBR",
+        "discipline": "Show jumping",
+        "birth_place": "Liverpool, England",
+        "height_ft": "5",
+        "height_in": "10",
+        "weight_lb": "168",
+        "birth_date": "1960-1-18",
+        "medaltemplates": [
+            "Country: {{IRL}}",
+            "Sport: Equestrian",
+            "Competition: European Championships",
+            "Gold Medal: 1995 St. Gallen Individual jumping",
+            "Gold Medal: 2001 Arnhem Team jumping"
+        ]
+    },
+    "2012-08-06T15:57:33Z": {
+        "name": "Peter Charles",
+        "fullname": "Peter Charles",
+        "nationality": "IRL &, GBR",
+        "discipline": "Show jumping",
+        "birth_place": "Liverpool, England",
+        "height_ft": "5",
+        "height_in": "10",
+        "weight_lb": "168",
+        "birth_date": "1960-1-18",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{GBR}}",
+            "Competition: Olympic Games",
+            "Gold Medal: 2012 London Team jumping",
+            "Country: {{IRL}}",
+            "Competition: European Championships",
+            "Gold Medal: 1995 St. Gallen Individual jumping",
+            "Gold Medal: 2001 Arnhem Team jumping"
+        ]
+    }
+}

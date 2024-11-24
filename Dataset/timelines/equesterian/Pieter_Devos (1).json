@@ -1,0 +1,25 @@
+{
+    "2021-08-07T12:15:16Z": {
+        "medaltemplates": [
+            "Country: {{BEL}}",
+            "Bronze Medal: 2020 Tokyo Team jumping"
+        ]
+    },
+    "2021-09-03T18:54:05Z": {
+        "medaltemplates": [
+            "Country: {{BEL}}",
+            "Bronze Medal: 2020 Tokyo Team jumping",
+            "Competition: European Championships",
+            "Bronze Medal: 2021 Riesenbeck Team jumping"
+        ]
+    },
+    "2021-09-05T13:21:18Z": {
+        "medaltemplates": [
+            "Country: {{BEL}}",
+            "Bronze Medal: 2020 Tokyo Team jumping",
+            "Competition: European Championships",
+            "Gold Medal: 2019 Rotterdam Team jumping",
+            "Bronze Medal: 2021 Riesenbeck Team jumping"
+        ]
+    }
+}

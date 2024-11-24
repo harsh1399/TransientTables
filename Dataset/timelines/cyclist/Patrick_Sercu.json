@@ -1,0 +1,86 @@
+{
+    "2008-01-12T21:55:16Z": {
+        "ridername": "Patrick Sercu",
+        "fullname": "Patrick Sercu",
+        "dateofbirth": "1944",
+        "country": "BEL",
+        "currentteam": "Retired",
+        "discipline": "Track and road",
+        "role": "Rider",
+        "ridertype": "Sprinter",
+        "majorwins": "Tour de France green jersey winner 1974"
+    },
+    "2008-09-07T19:42:13Z": {
+        "ridername": "Patrick Sercu",
+        "fullname": "Patrick Sercu",
+        "dateofbirth": "mf=yes",
+        "country": "BEL",
+        "currentteam": "Retired",
+        "discipline": "Track and road",
+        "role": "Rider",
+        "ridertype": "Sprinter",
+        "majorwins": "Tour de France green jersey winner 1974"
+    },
+    "2008-12-25T17:03:59Z": {
+        "ridername": "Patrick Sercu",
+        "fullname": "Patrick Sercu",
+        "dateofbirth": "df=yes",
+        "country": "BEL",
+        "currentteam": "Retired",
+        "discipline": "Track and road",
+        "role": "Rider",
+        "ridertype": "Sprinter",
+        "majorwins": "Tour de France green jersey winner 1974"
+    },
+    "2019-01-28T14:01:59Z": {
+        "name": "Patrick Sercu",
+        "fullname": "Patrick Sercu",
+        "birth_place": "Roeselare, West Flanders, Belgium",
+        "height": "1.80",
+        "weight": "76",
+        "currentteam": "Retired",
+        "discipline": "Track and road",
+        "role": "Rider",
+        "ridertype": "Sprinter",
+        "majorwins": "Tour de France green jersey winner 1974",
+        "birth_date": "1944-6-27",
+        "medaltemplates": [
+            "Country: {{BEL}}",
+            "Sport: Men's track cycling",
+            "Competition: Olympic Games",
+            "Gold Medal: 1964 Tokyo 1000 m time trial Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Competition: World Championships",
+            "Gold Medal: 1963 Liege Sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Gold Medal: 1967 Amsterdam Sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Gold Medal: 1969 Anetwerpen Sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Silver Medal: 1965 San Sebastian Sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Silver Medal: 1968 Rome Sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}"
+        ]
+    },
+    "2019-04-19T14:49:24Z": {
+        "name": "Patrick Sercu",
+        "fullname": "Patrick Sercu",
+        "birth_place": "Roeselare, West Flanders, Belgium",
+        "death_date": "2019",
+        "height": "1.80",
+        "weight": "76",
+        "currentteam": "Retired",
+        "discipline": "Track and road",
+        "role": "Rider",
+        "ridertype": "Sprinter",
+        "majorwins": "Tour de France green jersey winner 1974",
+        "birth_date": "1944-6-27",
+        "medaltemplates": [
+            "Country: {{BEL}}",
+            "Sport: Men's track cycling",
+            "Competition: Olympic Games",
+            "Gold Medal: 1964 Tokyo 1000 m time trial Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Competition: World Championships",
+            "Gold Medal: 1963 Liege Sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Gold Medal: 1967 Amsterdam Sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Gold Medal: 1969 Anetwerpen Sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Silver Medal: 1965 San Sebastian Sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}",
+            "Silver Medal: 1968 Rome Sprint Keirin {{2010 Pruszk\u00f3w}} {{ {{ENG}} }} {{ Track cycling }} {{Commonwealth Games}} {{2006 Melbourne}} {{2006 Melbourne}}"
+        ]
+    }
+}

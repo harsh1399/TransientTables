@@ -1,0 +1,28 @@
+{
+    "2015-07-24T09:32:11Z": {
+        "name": "Tiffany Foster",
+        "nationality": "Canadian",
+        "discipline": "Show jumping",
+        "birth_place": "Vancouver, Canada",
+        "height_ft": "5",
+        "height_in": "4.5",
+        "weight_lb": "110 ",
+        "birth_date": "1984-7-24"
+    },
+    "2015-07-25T13:58:50Z": {
+        "name": "Tiffany Foster",
+        "nationality": "Canadian",
+        "discipline": "Show jumping",
+        "birth_place": "Vancouver, Canada",
+        "height_ft": "5",
+        "height_in": "4.5",
+        "weight_lb": "110",
+        "birth_date": "1984-7-24",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{CAN}}",
+            "Competition: Pan American Games",
+            "Gold Medal: 2015 Toronto Team jumping"
+        ]
+    }
+}

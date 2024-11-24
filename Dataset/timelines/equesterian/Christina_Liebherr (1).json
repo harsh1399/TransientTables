@@ -1,0 +1,60 @@
+{
+    "2008-09-29T18:28:52Z": {
+        "name": "Christina Liebherr",
+        "fullname": "Christina Liebherr",
+        "nationality": "SUI",
+        "discipline": "Show jumping",
+        "birth_place": "Bulle, Switzerland",
+        "height_ft": "5",
+        "height_in": "7",
+        "weight_lb": "132",
+        "birth_date": "1979-3-16",
+        "medaltemplates": [
+            "Country: {{SUI}}",
+            "Sport: Equestrian",
+            "Competition: European Championships",
+            "Silver Medal: 2005 San Patrignano Individual jumping",
+            "Silver Medal: 2005 San Patrignano Team jumping"
+        ]
+    },
+    "2008-12-23T02:20:14Z": {
+        "name": "Christina Liebherr",
+        "fullname": "Christina Liebherr",
+        "nationality": "SUI",
+        "discipline": "Show jumping",
+        "birth_place": "Bulle, Switzerland",
+        "height_ft": "5",
+        "height_in": "7",
+        "weight_lb": "132",
+        "birth_date": "1979-3-16",
+        "medaltemplates": [
+            "Country: {{SUI}}",
+            "Sport: Equestrian",
+            "Competition: Olympic Games",
+            "Bronze Medal: 2008 Beijing Team jumping",
+            "Competition: European Championships",
+            "Silver Medal: 2005 San Patrignano Individual jumping",
+            "Silver Medal: 2005 San Patrignano Team jumping"
+        ]
+    },
+    "2008-12-24T00:06:21Z": {
+        "name": "Christina Liebherr",
+        "fullname": "Christina Liebherr",
+        "nationality": "SUI",
+        "discipline": "Show jumping",
+        "birth_place": "Bulle, Switzerland",
+        "height_ft": "5",
+        "height_in": "7",
+        "weight_lb": "132",
+        "birth_date": "1979-3-16",
+        "medaltemplates": [
+            "Country: {{SUI}}",
+            "Sport: Equestrian",
+            "Competition: Olympic Games",
+            "Bronze Medal: 2008 Beijing Team jumping",
+            "Competition: European Championships",
+            "Silver Medal: 2005 San Patrignano Individual jumping",
+            "Bronze Medal: 2005 San Patrignano Team jumping"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "2016-09-16T17:20:41Z": {
+        "name": "Pedro Veniss",
+        "fullname": "Pedro Veniss",
+        "nationality": "BRA",
+        "discipline": "Jumping",
+        "birth_place": "Brazil",
+        "horse": "Quabri de l'Isle",
+        "height": "1.81",
+        "weight": "66",
+        "birth_date": "1983-1-6"
+    },
+    "2019-05-13T01:00:15Z": {
+        "name": "Pedro Veniss",
+        "fullname": "Pedro Veniss",
+        "nationality": "BRA",
+        "discipline": "Jumping",
+        "birth_place": "Brazil",
+        "horse": "Quabri de l'Isle",
+        "height": "1.81",
+        "weight": "66",
+        "birth_date": "1983-1-6",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{BRA}}",
+            "Competition: Pan American Games",
+            "Gold Medal: 2007 Rio de Janeiro Team jumping"
+        ]
+    },
+    "2019-08-07T21:58:26Z": {
+        "name": "Pedro Veniss",
+        "fullname": "Pedro Veniss",
+        "nationality": "BRA",
+        "discipline": "Jumping",
+        "birth_place": "Brazil",
+        "horse": "Quabri de l'Isle",
+        "height": "1.81",
+        "weight": "66",
+        "birth_date": "1983-1-6",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{BRA}}",
+            "Competition: Pan American Games",
+            "Gold Medal: 2007 Rio de Janeiro Team jumping",
+            "Gold Medal: 2019 Lima Team jumping"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "2020-03-31T11:13:29Z": {
+        "name": "Finn Tugwell",
+        "fullname": "TUGWELL Finn",
+        "nationality": "DEN",
+        "medaltemplates": [
+            "Sport: Men's table tennis",
+            "Country: {{DEN}}",
+            "Competition: Olympic Games",
+            "Bronze Medal: 2004 Athens Doubles Played with David Melder",
+            "Competition: European Championships",
+            "Gold Medal: 2005 Aarhus Team Played with David Melder",
+            "Silver Medal: 2009 Stuttgart Team Played with David Melder"
+        ]
+    },
+    "2020-08-02T17:14:05Z": {
+        "name": "Finn Tugwell",
+        "fullname": "Finn Tugwell",
+        "nationality": "Danish",
+        "playingstyle": "Right-handed, shakehand grip",
+        "club": "Roskilde BTK",
+        "birth_place": "Aarhus, Denmark",
+        "height": "1.78 m ",
+        "weight": "66 kg",
+        "birth_date": "1976-3-18",
+        "medaltemplates": [
+            "Sport: Men's table tennis",
+            "Country: {{DEN}}",
+            "Competition: Olympic Games",
+            "Bronze Medal: 2004 Athens Doubles Played with David Melder",
+            "Competition: European Championships",
+            "Gold Medal: 2005 Aarhus Team Played with David Melder",
+            "Silver Medal: 2009 Stuttgart Team Played with David Melder"
+        ]
+    }
+}

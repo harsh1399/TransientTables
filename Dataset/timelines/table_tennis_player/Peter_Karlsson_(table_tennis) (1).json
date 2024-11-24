@@ -1,0 +1,46 @@
+{
+    "2010-08-25T07:44:21Z": {
+        "playername": "Peter Karlsson",
+        "fullname": "Karl Peter Karlsson url=http://www.sports-reference.com/olympics/athletes/ka/peter-karlsson-1.html ",
+        "nationality": "SWE",
+        "hrank": "11 (April 2003) url=http://www.ittf.com/ittf_ranking/world_ranking_per_name.asp?Player_ID=104381&U18=0&U21=0&Siniors=1& ",
+        "birthdate": "1969",
+        "birthplace": "Stenstorp, Falk\u00f6ping,  V\u00e4stra G\u00f6taland County, Sweden",
+        "height": "m=1.89",
+        "weight": "83",
+        "medaltemplates": [
+            "Sport: Men's table tennis",
+            "Country: {{SWE}}",
+            "Competition: World Championships",
+            "Bronze Medal: 2001 Osaka Team Played with David Melder",
+            "Gold Medal: 2000 Kuala Lumpur Team Played with David Melder",
+            "Silver Medal: 1995 Tianjin Team Played with David Melder",
+            "Gold Medal: 1993 Gothenburg Team Played with David Melder",
+            "Gold Medal: 1991 Chiba Men's Doubles Played with David Melder",
+            "Gold Medal: 1991 Chiba Team Played with David Melder",
+            "Gold Medal: 1989 Dortmund Team Played with David Melder"
+        ]
+    },
+    "2020-01-08T23:36:44Z": {
+        "name": "Peter Karlsson",
+        "fullname": "Karl Peter Karlsson url=https://www.sports-reference.com/olympics/athletes/ka/peter-karlsson-1.html ",
+        "nationality": "SWE",
+        "hrank": "11 (April 2003) url=http://www.ittf.com/ittf_ranking/world_ranking_per_name.asp?Player_ID=104381&U18=0&U21=0&Siniors=1& ",
+        "birth_place": "Stenstorp, Falk\u00f6ping,  V\u00e4stra G\u00f6taland County, Sweden",
+        "height": "m=1.89",
+        "weight": "83",
+        "birth_date": "1969-05-29",
+        "medaltemplates": [
+            "Sport: Men's table tennis",
+            "Country: {{SWE}}",
+            "Competition: World Championships",
+            "Gold Medal: 1989 Dortmund Team Played with David Melder",
+            "Gold Medal: 1991 Chiba Doubles Played with David Melder",
+            "Gold Medal: 1991 Chiba Team Played with David Melder",
+            "Gold Medal: 1993 Gothenburg Team Played with David Melder",
+            "Gold Medal: 2000 Kuala Lumpur Team Played with David Melder",
+            "Silver Medal: 1995 Tianjin Team Played with David Melder",
+            "Bronze Medal: 2001 Osaka Team Played with David Melder"
+        ]
+    }
+}

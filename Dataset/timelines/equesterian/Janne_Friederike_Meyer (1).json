@@ -1,0 +1,32 @@
+{
+    "2011-07-21T19:56:38Z": {
+        "name": "Janne Friederike Meyer",
+        "fullname": "Janne Friederike Meyer",
+        "nationality": "GER",
+        "discipline": "Show jumping",
+        "birth_place": "Hamburg, West Germany",
+        "birth_date": "1981-1-12",
+        "medaltemplates": [
+            "Country: {{GER}}",
+            "Sport: Equestrian",
+            "Competition: World Championships",
+            "Gold Medal: 2010 Lexington, Kentucky Team jumping"
+        ]
+    },
+    "2011-09-16T18:19:03Z": {
+        "name": "Janne Friederike Meyer",
+        "fullname": "Janne Friederike Meyer",
+        "nationality": "GER",
+        "discipline": "Show jumping",
+        "birth_place": "Hamburg, West Germany",
+        "birth_date": "1981-1-12",
+        "medaltemplates": [
+            "Country: {{GER}}",
+            "Sport: Equestrian",
+            "Competition: World Championships",
+            "Gold Medal: 2010 Lexington, Kentucky Team jumping",
+            "Competition: European Championships",
+            "Gold Medal: 2011 Madrid Team jumping"
+        ]
+    }
+}

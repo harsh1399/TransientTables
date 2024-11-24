@@ -1,0 +1,81 @@
+{
+    "2014-03-03T12:36:27Z": {
+        "medaltemplates": [
+            "Sport: Men's Table tennis",
+            "Country: {{GER}}",
+            "Bronze Medal: 2012 London Team Played with David Melder",
+            "Competition: European Championships",
+            "Bronze Medal: 2012 Herning Singles Played with David Melder"
+        ]
+    },
+    "2016-08-17T19:58:26Z": {
+        "medaltemplates": [
+            "Sport: Men's Table tennis",
+            "Country: {{GER}}",
+            "Bronze Medal: 2012 London Team Played with David Melder",
+            "Bronze Medal: 2016 Rio de Janeiro Team Played with David Melder",
+            "Competition: European Championships",
+            "Bronze Medal: 2012 Herning Singles Played with David Melder"
+        ]
+    },
+    "2016-11-16T08:10:25Z": {
+        "name": "Bastian Steger",
+        "nationality": "German",
+        "birth_place": "Oberviechtach, Germany",
+        "hrank": "18 (October 2014)",
+        "crank": "21 (November 2016)",
+        "height": "1.70 m",
+        "weight": "65 kg",
+        "birth_date": "1981-3-19",
+        "medaltemplates": [
+            "Sport: Men's table tennis",
+            "Country: {{GER}}",
+            "Competition: Olympic Games",
+            "Bronze Medal: 2012 London Team Played with David Melder",
+            "Bronze Medal: 2016 Rio de Janeiro Team Played with David Melder",
+            "Competition: European Championships",
+            "Bronze Medal: 2012 Herning Singles Played with David Melder"
+        ]
+    },
+    "2018-05-07T14:57:51Z": {
+        "name": "Bastian Steger",
+        "nationality": "German",
+        "birth_place": "Oberviechtach, Germany",
+        "hrank": "18 (October 2014)",
+        "crank": "21 (November 2016)",
+        "height": "1.70 m",
+        "weight": "65 kg",
+        "birth_date": "1981-3-19",
+        "medaltemplates": [
+            "Sport: Men's table tennis",
+            "Country: {{GER}}",
+            "Bronze Medal: 2012 London Team Played with David Melder",
+            "Bronze Medal: 2016 Rio de Janeiro Team Played with David Melder",
+            "Competition: World Championships",
+            "Silver Medal: 2018 Halmstad Team Played with David Melder",
+            "Competition: European Championships",
+            "Bronze Medal: 2012 Herning Singles Played with David Melder"
+        ]
+    },
+    "2018-11-13T03:37:34Z": {
+        "name": "Bastian Steger",
+        "nationality": "German",
+        "birth_place": "Oberviechtach, Germany",
+        "hrank": "18 (October 2014)",
+        "crank": "35 (August 2018)",
+        "height": "1.70 m",
+        "weight": "65 kg",
+        "birth_date": "1981-3-19",
+        "medaltemplates": [
+            "Sport: Men's table tennis",
+            "Country: {{GER}}",
+            "Competition: Olympic Games",
+            "Bronze Medal: 2012 London Team Played with David Melder",
+            "Bronze Medal: 2016 Rio de Janeiro Team Played with David Melder",
+            "Competition: World Championships",
+            "Silver Medal: 2018 Halmstad Team Played with David Melder",
+            "Competition: European Championships",
+            "Bronze Medal: 2012 Herning Singles Played with David Melder"
+        ]
+    }
+}

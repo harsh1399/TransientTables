@@ -1,0 +1,41 @@
+{
+    "2008-09-22T17:15:41Z": {
+        "name": "Eddie Macken",
+        "fullname": "Eddie Macken",
+        "nationality": "IRL",
+        "discipline": "Show jumping",
+        "birth_place": "Granard, Republic of Ireland",
+        "height_ft": "6",
+        "height_in": "0",
+        "weight_lb": "174",
+        "birth_date": "1949-10-20",
+        "medaltemplates": [
+            "Country: {{IRL}}",
+            "Sport: Equestrian",
+            "Competition: European Championships",
+            "Silver Medal: 1977 Vienna Individual jumping",
+            "Bronze Medal: 1979 Rotterdam Team jumping",
+            "Competition: World Championships",
+            "Silver Medal: 1974 Hickstead Individual jumping",
+            "Silver Medal: 1978 Aachen Individual jumping"
+        ]
+    },
+    "2008-08-24T19:05:08Z": {
+        "name": "Eddie Macken",
+        "fullname": "Eddie Macken",
+        "nationality": "IRL",
+        "discipline": "Show jumping",
+        "birth_place": "Granard, Republic of Ireland",
+        "birth_date": "1949-10-20",
+        "medaltemplates": [
+            "Country: {{IRL}}",
+            "Sport: Equestrian",
+            "Competition: European Championships",
+            "Silver Medal: 1977 Vienna Individual jumping",
+            "Bronze Medal: 1979 Rotterdam Team jumping",
+            "Competition: World Championships",
+            "Silver Medal: 1974 Hickstead Individual jumping",
+            "Silver Medal: 1978 Aachen Individual jumping"
+        ]
+    }
+}

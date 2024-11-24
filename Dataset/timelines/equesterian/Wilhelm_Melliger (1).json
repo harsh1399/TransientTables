@@ -1,0 +1,45 @@
+{
+    "2018-01-16T13:05:53Z": {
+        "name": "Wilhelm Melliger",
+        "other_names": "Willi Melliger",
+        "discipline": "Jumping",
+        "death_date": "df=y",
+        "death_place": "Solothurn, Switzerland",
+        "birth_date": "1953-7-26",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{SUI}}",
+            "Silver Medal: 1996 Atlanta Show jumping",
+            "Silver Medal: 2000 Sydney Team jumping"
+        ]
+    },
+    "2018-01-16T13:21:14Z": {
+        "name": "Wilhelm Melliger",
+        "other_names": "Willi Melliger",
+        "discipline": "Jumping",
+        "death_date": "df=y",
+        "death_place": "Solothurn, Switzerland",
+        "birth_date": "1953-7-26",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{SUI}}",
+            "Silver Medal: 1996 Atlanta Individual jumping",
+            "Silver Medal: 2000 Sydney Team jumping"
+        ]
+    },
+    "2018-01-16T15:11:18Z": {
+        "name": "Wilhelm Melliger",
+        "other_names": "Willi Melliger",
+        "discipline": "Jumping",
+        "death_date": "df=y",
+        "death_place": "Solothurn, Switzerland",
+        "horse": "Calvaro V",
+        "birth_date": "1953-7-26",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{SUI}}",
+            "Silver Medal: 1996 Atlanta Individual jumping",
+            "Silver Medal: 2000 Sydney Team jumping"
+        ]
+    }
+}

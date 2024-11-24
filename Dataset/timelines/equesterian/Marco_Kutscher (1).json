@@ -1,0 +1,23 @@
+{
+    "2011-07-18T20:12:02Z": {
+        "name": "Marco Kutscher",
+        "fullname": "Marco Kutscher",
+        "nationality": "GER",
+        "discipline": "Show jumping",
+        "birth_place": "Norden, West Germany",
+        "height_ft": "6",
+        "height_in": "2",
+        "weight_lb": "165",
+        "birth_date": "1975-5-2",
+        "medaltemplates": [
+            "Country: {{GER}}",
+            "Sport: Equestrian",
+            "Competition: European Championships",
+            "Gold Medal: 2005 San Patrignano Individual jumping",
+            "Gold Medal: 2005 San Patrignano Team jumping",
+            "Competition: Olympic Games",
+            "Bronze Medal: 2004 Athens Individual jumping",
+            "Bronze Medal: 2004 Athens Team jumping"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "2015-04-13T11:15:39Z": {
+        "name": "Georgina Bloomberg",
+        "fullname": "Georgina Leigh Bloomberg",
+        "nationality": "USA",
+        "discipline": "Show jumping",
+        "birth_place": "Manhattan, New York City",
+        "birth_date": "1983-1-20",
+        "medaltemplates": [
+            "Country: {{USA}}",
+            "Sport: Equestrian"
+        ]
+    },
+    "2015-07-25T14:01:05Z": {
+        "name": "Georgina Bloomberg",
+        "fullname": "Georgina Leigh Bloomberg",
+        "nationality": "USA",
+        "discipline": "Show jumping",
+        "birth_place": "Manhattan, New York City",
+        "birth_date": "1983-1-20",
+        "medaltemplates": [
+            "Country: {{USA}}",
+            "Sport: Equestrian",
+            "Competition: Pan American Games",
+            "Bronze Medal: 2015 Toronto Team jumping"
+        ]
+    },
+    "2015-09-20T05:16:50Z": {
+        "name": "Georgina Bloomberg",
+        "fullname": "Georgina Leigh Bloomberg",
+        "nationality": "USA",
+        "discipline": "Show jumping",
+        "birth_place": "Manhattan, New York City",
+        "partner": "Argentine equestrian Ramiro Quintana",
+        "children": "1",
+        "birth_date": "1983-1-20",
+        "medaltemplates": [
+            "Country: {{USA}}",
+            "Sport: Equestrian",
+            "Competition: Pan American Games",
+            "Bronze Medal: 2015 Toronto Team jumping"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "2021-01-01T13:33:10Z": {
+        "name": "Nick Wilson",
+        "birth_place": "Palmerston North, New Zealand",
+        "position": "Striker",
+        "clubs1": "Central",
+        "years1": "??\u2013present",
+        "nationalteam1": "New Zealand",
+        "nationalyears1": "2007\u2013present",
+        "nationalcaps(goals)1": "118",
+        "nationalgoals1": "49",
+        "birth_date": "1990-08-06",
+        "medaltemplates": [
+            "Sport: Men's field hockey",
+            "Country: {{NZL}}",
+            "Competition: Commonwealth Games",
+            "Bronze Medal: 2010 Delhi Team competition Team"
+        ]
+    },
+    "2021-08-01T11:37:45Z": {
+        "name": "Nick Wilson",
+        "birth_place": "Palmerston North, New Zealand",
+        "height": "1.80 m",
+        "weight": "81 kg",
+        "position": "Forward",
+        "currentclub": "Central Falcons",
+        "nationalteam1": "New Zealand",
+        "nationalyears1": "2007\u2013present",
+        "nationalcaps1": "176",
+        "nationalgoals1": "77",
+        "birth_date": "1990-8-6",
+        "medaltemplates": [
+            "Sport: Men's field hockey",
+            "Country: {{NZL}}",
+            "Competition: Commonwealth Games",
+            "Bronze Medal: 2010 Delhi Hockey at the 2010 Commonwealth Games \u2013 Men's tournament Team"
+        ]
+    }
+}

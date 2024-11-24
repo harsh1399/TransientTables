@@ -1,0 +1,42 @@
+{
+    "2019-10-07T22:34:55Z": {
+        "name": "Neale Lavis",
+        "fullname": "Neale Lavis",
+        "nationality": "AUS",
+        "discipline": "Eventing",
+        "birth_date": "1930-6-11",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{AUS}}",
+            "Gold Medal: 1960 Rome Eventing, team",
+            "Silver Medal: 1960 Rome Eventing, individual"
+        ]
+    },
+    "2019-10-07T22:40:01Z": {
+        "name": "Neale Lavis",
+        "fullname": "Neale Lavis",
+        "nationality": "AUS",
+        "discipline": "Eventing || birth_date        = 1930",
+        "death_date": "2019",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{AUS}}",
+            "Gold Medal: 1960 Rome Eventing, team",
+            "Silver Medal: 1960 Rome Eventing, individual"
+        ]
+    },
+    "2019-10-08T03:11:43Z": {
+        "name": "Neale Lavis",
+        "fullname": "Neale Lavis",
+        "nationality": "AUS",
+        "discipline": "Eventing",
+        "death_date": "2019",
+        "birth_date": "1930-6-11",
+        "medaltemplates": [
+            "Sport: Equestrian",
+            "Country: {{AUS}}",
+            "Gold Medal: 1960 Rome Eventing, team",
+            "Silver Medal: 1960 Rome Eventing, individual"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "2011-09-07T15:42:19Z": {
+        "name": "Lauren Hunkin",
+        "nationality": "CAN",
+        "discipline": "Show jumping",
+        "residence": "Kemptville, Ontario, Canada",
+        "birth_date": "1979-8-29",
+        "medaltemplates": [
+            "Country: {{CAN}}",
+            "Sport: Equestrian",
+            "Competition: FEI Nations Cup of Argentina (2010)",
+            "Silver Medal: 2010 Argentina Team eventing"
+        ]
+    },
+    "2011-09-07T15:44:00Z": {
+        "name": "Lauren Hunkin",
+        "nationality": "CAN",
+        "discipline": "Show jumping",
+        "residence": "Kemptville, Ontario, Canada",
+        "birth_date": "1979-8-29",
+        "medaltemplates": [
+            "Country: {{CAN}}",
+            "Sport: Equestrian",
+            "Competition: FEI Nations Cup of Argentina (2010)",
+            "Silver Medal: 2010 Argentina Team jumping"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "2010-02-17T14:30:15Z": {
+        "playername": "Werner Schlager",
+        "fullname": "Werner Schlager",
+        "nationality": "AUT",
+        "playingstyle": "Shake hands grip",
+        "birthdate": "1972",
+        "birthplace": "Wiener Neustadt, Austria",
+        "medaltemplates": [
+            "Sport: Men's table tennis",
+            "Country: {{AUT}}",
+            "Competition: World Championships",
+            "Bronze Medal: 1999 Eindhoven Singles Played with David Melder",
+            "Gold Medal: 2003 Paris Singles Played with David Melder"
+        ]
+    },
+    "2010-08-25T06:44:56Z": {
+        "playername": "Werner Schlager",
+        "fullname": "Werner Schlager",
+        "nationality": "AUT",
+        "playingstyle": "Shake hands grip",
+        "hrank": "1 (June 2003) url=http://www.ittf.com/ittf_ranking/world_ranking_per_name.asp?Player_ID=108379&U18=0&U21=0&Siniors=1& ",
+        "birthdate": "1972 url=http://www.ittf.com/biography/biography_web_details.asp?Player_ID=108379 ",
+        "birthplace": "Wiener Neustadt, Austria",
+        "height": "m=1.76",
+        "weight": "70",
+        "medaltemplates": [
+            "Sport: Men's table tennis",
+            "Country: {{AUT}}",
+            "Competition: World Championships",
+            "Gold Medal: 2003 Paris Singles Played with David Melder",
+            "Bronze Medal: 1999 Eindhoven Singles Played with David Melder",
+            "Competition: World Cup",
+            "Silver Medal: 1999 Xiaolan Singles Played with David Melder"
+        ]
+    }
+}
