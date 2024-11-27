@@ -40,3 +40,15 @@ Dataset/
       Bulgaria.json, Egypt.json ...
     ...
 ```
+
+## ⚙️ **Installation**
+
+Clone the repository and install the required dependencies:
+
+```bash
+git clone ..
+cd TransientTables
+pip install -r requirements.txt
+```
+
+## 🛠️ **Data Collection**
