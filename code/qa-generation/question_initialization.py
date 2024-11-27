@@ -1042,14 +1042,14 @@ def initialize_question_multiplekeys(question,json_data):
     return questions
 
 
-with open('scripts/info_cricket_team/infoboxes/cricket_team/good_folders.txt','r') as f:
-    good_folders = f.readlines()
+
 questions_dict = {}
 total_questions = 0
-for folder in good_folders:
+folders = os.listdir("../Dataset/timelines/cricket_team")
+for folder in folders:
     folder_path = f"scripts/info_cricket_team/infoboxes/cricket_team/{folder[:-1]}"
     questions_dict[f"{folder[:-1]}"] = {} 
-    with open(f'{folder_path}/{folder[:-1]}_2.json','r') as f:
+    with open(f'{folder_path}/{folder[:-1]}.json','r') as f:
         output = json.load(f)
     folder_name_pattern = re.compile(r'{folder_name}')
     for q in questions:
